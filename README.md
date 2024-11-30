@@ -25,7 +25,7 @@ This project aims to develop data-driven strategies for opti- mising management 
 
 #### 2.2 docs
 
-- [Project Proposal](./docs/CA4021 Project Proposal.pdf)
+- [Project Proposal](./docs/CA4021%20Project%20Proposal.pdf)
 - [Final Report](./docs/Price_Profile_Computer_Application_for_EV_Charging_Stations.pdf)
 
 #### 2.3 tests
